@@ -1,0 +1,2 @@
+Final_mAP50,Final_mAP50_95,Final_Precision,Final_Recall,Model_Size_MB,Parameters,Training_Epochs,Dataset_Images,Dataset_Annotations
+0.9341169559398509,0.7061095822721462,0.9189044708737178,0.8752479585357247,6.1,3006623,30,6633,79628
