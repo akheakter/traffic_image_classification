@@ -1,0 +1,17 @@
+{
+  "comparison_summary": {
+    "yolov8n_final_map50": 0.9226,
+    "yolov8s_final_map50": 0.94402,
+    "map50_improvement_percent": 2.321699544764795,
+    "yolov8n_size_mb": 5.957980155944824,
+    "yolov8s_size_mb": 21.474764823913574,
+    "size_increase_percent": 260.4369981408251,
+    "speed_trade_off_percent": 1024.6136256626673
+  },
+  "recommendations": {
+    "best_for_accuracy": "YOLOv8s",
+    "best_for_speed": "YOLOv8n",
+    "best_for_mobile": "YOLOv8n",
+    "best_for_server": "YOLOv8s"
+  }
+}
